@@ -6,7 +6,13 @@
 
 ![Google Cloud Resource Hierarchy](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Resource_Hierachy.png)
 
+[GCP Security](https://cloud.google.com/security/)
+
 ![Google Security](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Security.png)
+
+### Big Data
+
+![Big Data Challenge](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_BigData_Challenge.png)
 
 [BigQuery solutions and use cases](https://cloud.google.com/bigquery/#bigquery-solutions-and-use-cases)\
 [Google Cloud customers who use Big Data tools](https://cloud.google.com/customers/#/products=Big_Data_Analytics)
@@ -16,6 +22,10 @@
 ![GCP BigQuery](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_BigQuery.png)
 
 ![GCP Data Pipelining](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_DataPipelining.png)
+
+### Machine Learning
+
+![Google Rank Brain Search ML](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Rank_Brain.png)
 
 ### Learn More
 [Google Cloud vs AWS in 2019](https://kinsta.com/blog/google-cloud-vs-aws/)\
