@@ -19,13 +19,13 @@
 
 ### Learn More
 [Google Cloud vs AWS in 2019](https://kinsta.com/blog/google-cloud-vs-aws/)\
-[Google Cloud Certificate](https://cloud.google.com/certification/)\
-[Compute Engine](https://cloud.google.com/compute/)\
-[Storage](https://cloud.google.com/storage/)
+[Google Coud Certificate](https://cloud.google.com/certification/)\
+[GCP Compute Engine](https://cloud.google.com/compute/)\
+[GCP Storage](https://cloud.google.com/storage/)
 
 ![Google Cloud Bucket Storage](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Cloud_Bucket_Storage.png)
 
-[Pricing](https://cloud.google.com/pricing/)
+[Google Cloud Pricing](https://cloud.google.com/pricing/)
 
 ## 2. Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform
 
