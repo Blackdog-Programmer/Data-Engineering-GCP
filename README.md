@@ -7,6 +7,8 @@
 [How GDPR Compliance Will Affect Marketers](https://learn.g2.com/gdpr-compliance-marketing)\
 [Best Data Security Software](https://www.g2.com/categories/data-security?__hstc=171774463.6ff797beced5796a84f4a5c7324c7299.1575889076257.1575889076257.1575906280839.2&__hssc=171774463.2.1575906280839&__hsfp=2841943870)
 
+![4V Big Data Infographic](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/4-Vs-of-big-data.jpg)
+
 ##  1. Google Cloud Platform Big Data and Machine Learning Fundamentals
 [Google Cloud](https://cloud.google.com/)\
 [Google Cloud Platform Blog](https://cloud.google.com/blog/products)\
