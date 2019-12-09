@@ -25,7 +25,7 @@
 
 ![GCP Data Pipelining](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_DataPipelining.png)
 
-### Machine Learning
+### Machine Learning - Recommmendation System
 
 ![Google Rank Brain Search ML](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Rank_Brain.png)
 
