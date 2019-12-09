@@ -5,7 +5,8 @@
 [How Big Data Has Changed Finance](https://www.investopedia.com/articles/active-trading/040915/how-big-data-has-changed-finance.asp)\
 [The Four V's of Big Data](https://www.ibmbigdatahub.com/infographic/four-vs-big-data)\
 [What Is a Data Lake and Why Is It Essential for Big Data?](https://learn.g2.com/what-is-a-data-lake)\
-[How GDPR Compliance Will Affect Marketers](https://learn.g2.com/gdpr-compliance-marketing)
+[How GDPR Compliance Will Affect Marketers](https://learn.g2.com/gdpr-compliance-marketing)\
+[Best Data Security Software](https://www.g2.com/categories/data-security?__hstc=171774463.6ff797beced5796a84f4a5c7324c7299.1575889076257.1575889076257.1575906280839.2&__hssc=171774463.2.1575906280839&__hsfp=2841943870)
 
 ##  1. Google Cloud Platform Big Data and Machine Learning Fundamentals
 [Google Cloud](https://cloud.google.com/)\
