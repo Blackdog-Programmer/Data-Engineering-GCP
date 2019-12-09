@@ -4,7 +4,7 @@
 [Google Cloud Gihub](https://github.com/GoogleCloudPlatform)
 [GCP Training Data](https://github.com/GoogleCloudPlatform/training-data-analyst)
 
-![Google Cloud Resource Hierarchy](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Resource_Hierachy.png)
+![Google Cloud Resource Hierarchy](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Resources_Hierachy.png)
 
 <h3><b>Google Cloud Security</b></h3>
 
