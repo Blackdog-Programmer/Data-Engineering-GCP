@@ -1,9 +1,11 @@
 ## 0. Bootstrap
 [Google Cloud vs AWS in 2019](https://kinsta.com/blog/google-cloud-vs-aws/)\
+[Google Coud Certificate](https://cloud.google.com/certification/), [Google Cloud Pricing](https://cloud.google.com/pricing/)\
 [Qualitative vs Quantitative](https://learn.g2.com/qualitative-vs-quantitative-data), [Structured vs Unstructured Data – What's the Difference?](https://learn.g2.com/structured-vs-unstructured-data)\
 [How Big Data Has Changed Finance](https://www.investopedia.com/articles/active-trading/040915/how-big-data-has-changed-finance.asp)\
-[Google Coud Certificate](https://cloud.google.com/certification/)\
-[Google Cloud Pricing](https://cloud.google.com/pricing/)
+[What Is a Data Lake and Why Is It Essential for Big Data?](https://learn.g2.com/what-is-a-data-lake)\
+[How GDPR Compliance Will Affect Marketers](https://learn.g2.com/gdpr-compliance-marketing)\
+[Best Data Security Software](https://www.g2.com/categories/data-security?__hstc=171774463.6ff797beced5796a84f4a5c7324c7299.1575889076257.1575889076257.1575906280839.2&__hssc=171774463.2.1575906280839&__hsfp=2841943870)
 
 ##  1. Google Cloud Platform Big Data and Machine Learning Fundamentals
 [Google Cloud](https://cloud.google.com/)\
