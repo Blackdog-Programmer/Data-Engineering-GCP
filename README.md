@@ -1,5 +1,3 @@
-[Google Cloud vs AWS in 2019](https://kinsta.com/blog/google-cloud-vs-aws/)
-
 ##  1. Google Cloud Platform Big Data and Machine Learning Fundamentals
 [Google Cloud](https://cloud.google.com/)\
 [Google Cloud Platform Blog](https://cloud.google.com/blog/products)\
@@ -20,9 +18,10 @@
 ![GCP Data Pipelining](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_DataPipelining.png)
 
 ### Learn More
-[Google Cloud Certificate](https://cloud.google.com/certification/)
+[Google Cloud vs AWS in 2019](https://kinsta.com/blog/google-cloud-vs-aws/)\
+[Google Cloud Certificate](https://cloud.google.com/certification/)\
 [Compute Engine](https://cloud.google.com/compute/)\
-[Storage](https://cloud.google.com/storage/)\
+[Storage](https://cloud.google.com/storage/)
 
 ![Google Cloud Bucket Storage](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Cloud_Bucket_Storage.png)
 
