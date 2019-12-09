@@ -1,4 +1,4 @@
-## Warm Up
+## 0. Bootstrap
 [Google Cloud vs AWS in 2019](https://kinsta.com/blog/google-cloud-vs-aws/)\
 [Qualitative vs Quantitative](https://learn.g2.com/qualitative-vs-quantitative-data)\
 [How Big Data Has Changed Finance](https://www.investopedia.com/articles/active-trading/040915/how-big-data-has-changed-finance.asp)\
