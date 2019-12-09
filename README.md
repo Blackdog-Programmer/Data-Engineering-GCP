@@ -1,3 +1,8 @@
+## Warm Up
+[Google Cloud vs AWS in 2019](https://kinsta.com/blog/google-cloud-vs-aws/)\
+[How Big Data Has Changed Finance](https://www.investopedia.com/articles/active-trading/040915/how-big-data-has-changed-finance.asp)
+[Google Coud Certificate](https://cloud.google.com/certification/)
+
 ##  1. Google Cloud Platform Big Data and Machine Learning Fundamentals
 [Google Cloud](https://cloud.google.com/)\
 [Google Cloud Platform Blog](https://cloud.google.com/blog/products)\
@@ -35,8 +40,6 @@
 
 <h2>[Learnning More Reference]</h2>
 
-[Google Cloud vs AWS in 2019](https://kinsta.com/blog/google-cloud-vs-aws/)\
-[Google Coud Certificate](https://cloud.google.com/certification/)\
 [GCP Compute Engine](https://cloud.google.com/compute/)\
 [GCP Storage](https://cloud.google.com/storage/)
 
