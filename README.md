@@ -1,7 +1,10 @@
 ## Warm Up
 [Google Cloud vs AWS in 2019](https://kinsta.com/blog/google-cloud-vs-aws/)\
-[How Big Data Has Changed Finance](https://www.investopedia.com/articles/active-trading/040915/how-big-data-has-changed-finance.asp)
-[Google Coud Certificate](https://cloud.google.com/certification/)
+[Qualitative vs Quantitative](https://learn.g2.com/qualitative-vs-quantitative-data)\
+[How Big Data Has Changed Finance](https://www.investopedia.com/articles/active-trading/040915/how-big-data-has-changed-finance.asp)\
+[Structured vs Unstructured Data – What's the Difference?](https://learn.g2.com/structured-vs-unstructured-data)\
+[Google Coud Certificate](https://cloud.google.com/certification/)\
+[Google Cloud Pricing](https://cloud.google.com/pricing/)
 
 ##  1. Google Cloud Platform Big Data and Machine Learning Fundamentals
 [Google Cloud](https://cloud.google.com/)\
@@ -44,9 +47,6 @@
 [GCP Storage](https://cloud.google.com/storage/)
 
 ![Google Cloud Bucket Storage](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Cloud_Bucket_Storage.png)
-
-[Google Cloud Pricing](https://cloud.google.com/pricing/)\
-[Structured vs Unstructured Data – What's the Difference?](https://learn.g2.com/structured-vs-unstructured-data)
 
 ## 2. Leveraging Unstructured Data Cloud Dataproc Google Cloud Platform
 
