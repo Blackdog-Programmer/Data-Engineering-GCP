@@ -29,7 +29,7 @@
 
 ![Google Rank Brain Search ML](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Rank_Brain.png)
 
-![GCP_Platfrom_Spark_Hadoop](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Platfrom_Spark_Hadoop.png)
+![Open Source Bigdata Tools](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/Open_Source_Bigdata_Tools.png)
 
 ![GCP_Data_Process](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Data_Process.png)
 
