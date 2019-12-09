@@ -5,3 +5,11 @@
 [Google Cloud Github](https://github.com/GoogleCloudPlatform)\
 [BigQuery solutions and use cases](https://cloud.google.com/bigquery/#bigquery-solutions-and-use-cases)\
 [Google Cloud customers who use Big Data tools](https://cloud.google.com/customers/#/products=Big_Data_Analytics)
+
+## Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform
+
+
+## Serverless Data Analysis with Google BigQuery and Cloud Dataflow
+
+
+## Serverless Machine Learning with Tensorflow on Google Cloud Platform
