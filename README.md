@@ -13,9 +13,7 @@
 [BigQuery standard SQL guide](https://cloud.google.com/bigquery/docs/reference/standard-sql/enabling-standard-sql)\
 [Qwiklabs BigQuery quest for Data Analysts](https://www.qwiklabs.com/quests/55)
 
-![GCP BigQuery](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_BigQuery.png)
-
-![GCP Data Pipelining](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_DataPipelining.png)
+![GCP BigQuery](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_BigQuery.png), ![GCP Data Pipelining](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_DataPipelining.png)
 
 ### Learn More
 [Google Cloud Certificate](https://cloud.google.com/certification/)
