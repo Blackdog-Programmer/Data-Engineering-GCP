@@ -1,3 +1,5 @@
+[Google Cloud vs AWS in 2019](https://kinsta.com/blog/google-cloud-vs-aws/)
+
 ##  1. Google Cloud Platform Big Data and Machine Learning Fundamentals
 [Google Cloud](https://cloud.google.com/)\
 [Google Cloud Platform Blog](https://cloud.google.com/blog/products)\
@@ -24,8 +26,7 @@
 
 ![Google Cloud Bucket Storage](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Cloud_Bucket_Storage.png)
 
-[Pricing](https://cloud.google.com/pricing/)\
-[Google Cloud vs AWS in 2019](https://kinsta.com/blog/google-cloud-vs-aws/)
+[Pricing](https://cloud.google.com/pricing/)
 
 ## 2. Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform
 
