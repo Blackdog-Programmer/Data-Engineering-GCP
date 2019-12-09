@@ -1,8 +1,7 @@
 ## 0. Bootstrap
 [Google Cloud vs AWS in 2019](https://kinsta.com/blog/google-cloud-vs-aws/)\
-[Qualitative vs Quantitative](https://learn.g2.com/qualitative-vs-quantitative-data)\
+[Qualitative vs Quantitative](https://learn.g2.com/qualitative-vs-quantitative-data), [Structured vs Unstructured Data – What's the Difference?](https://learn.g2.com/structured-vs-unstructured-data)\
 [How Big Data Has Changed Finance](https://www.investopedia.com/articles/active-trading/040915/how-big-data-has-changed-finance.asp)\
-[Structured vs Unstructured Data – What's the Difference?](https://learn.g2.com/structured-vs-unstructured-data)\
 [Google Coud Certificate](https://cloud.google.com/certification/)\
 [Google Cloud Pricing](https://cloud.google.com/pricing/)
 
