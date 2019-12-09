@@ -12,7 +12,7 @@
 
 ![Google Security](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Security.png)
 
-<h3><b>Big Data</b></h3>
+<h2><b>[Big Data]</b></h2>
 
 ![Big Data Challenge](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_BigData_Challenge.png)
 
@@ -33,7 +33,7 @@
 
 ![GCP_Data_Process](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Data_Process.png)
 
-<p><b>[Learnning More Reference]</b></p>
+<h2>[Learnning More Reference]</h2>
 
 [Google Cloud vs AWS in 2019](https://kinsta.com/blog/google-cloud-vs-aws/)\
 [Google Coud Certificate](https://cloud.google.com/certification/)\
