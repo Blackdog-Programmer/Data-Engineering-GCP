@@ -1,13 +1,12 @@
 ##  1. Google Cloud Platform Big Data and Machine Learning Fundamentals
 [Google Cloud](https://cloud.google.com/)\
 [Google Cloud Platform Blog](https://cloud.google.com/blog/products)\
-[Google Cloud Gihub](https://github.com/GoogleCloudPlatform)\
+[Google Cloud Gihub](https://github.com/GoogleCloudPlatform)
+[GCP Training Data](https://github.com/GoogleCloudPlatform/training-data-analyst)
 
 ![Google Cloud Resource Hierarchy](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Resource_Hierachy.png)
 
 ![Google Security](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Security.png)
-
-[GCP Training Data](https://github.com/GoogleCloudPlatform/training-data-analyst)\
 
 [BigQuery solutions and use cases](https://cloud.google.com/bigquery/#bigquery-solutions-and-use-cases)\
 [Google Cloud customers who use Big Data tools](https://cloud.google.com/customers/#/products=Big_Data_Analytics)
