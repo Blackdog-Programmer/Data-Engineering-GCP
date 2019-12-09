@@ -27,7 +27,7 @@
 
 ![Google Rank Brain Search ML](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Rank_Brain.png)
 
-#### Learn More
+### Learn More
 [Google Cloud vs AWS in 2019](https://kinsta.com/blog/google-cloud-vs-aws/)\
 [Google Coud Certificate](https://cloud.google.com/certification/)\
 [GCP Compute Engine](https://cloud.google.com/compute/)\
