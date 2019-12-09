@@ -33,7 +33,7 @@
 
 ![GCP_Data_Process](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Data_Process.png)
 
-<p><b>Learnning More Reference</b></p>
+<p><b>[Learnning More Reference]</b></p>
 
 [Google Cloud vs AWS in 2019](https://kinsta.com/blog/google-cloud-vs-aws/)\
 [Google Coud Certificate](https://cloud.google.com/certification/)\
