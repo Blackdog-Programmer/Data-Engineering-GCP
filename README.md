@@ -37,9 +37,10 @@
 
 ![Google Cloud Bucket Storage](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Cloud_Bucket_Storage.png)
 
-[Google Cloud Pricing](https://cloud.google.com/pricing/)
+[Google Cloud Pricing](https://cloud.google.com/pricing/)\
+[Structured vs Unstructured Data – What's the Difference?](https://learn.g2.com/structured-vs-unstructured-data)
 
-## 2. Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform
+## 2. Leveraging Unstructured Data Cloud Dataproc Google Cloud Platform
 
 
 ## 3. Serverless Data Analysis with Google BigQuery and Cloud Dataflow
