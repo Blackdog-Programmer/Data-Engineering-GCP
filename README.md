@@ -56,7 +56,8 @@
 [Cloud Dataproc Documentation](https://cloud.google.com/)
 
 [Bounce rate - Internet Marketing](https://en.wikipedia.org/wiki/Bounce_rate)\
-[ROC Cruve - Goal is 1.0](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+[ROC Cruve - Goal is 1.0](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)\
+[Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall)
 
 ## 2. Leveraging Unstructured Data Cloud Dataproc Google Cloud Platform
 
