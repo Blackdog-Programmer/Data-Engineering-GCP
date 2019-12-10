@@ -69,6 +69,9 @@
 [What Is Pub/Sub?](https://cloud.google.com/pubsub/docs/overview)\
 [What is Serverless Architecture? What are its Pros and Cons?)(https://hackernoon.com/what-is-serverless-architecture-what-are-its-pros-and-cons-cc4b804022e9)
 
+### Learn More
+[What is JSON?](https://www.w3schools.com/whatis/whatis_json.asp)
+
 ## 2. Leveraging Unstructured Data Cloud Dataproc Google Cloud Platform
 
 
