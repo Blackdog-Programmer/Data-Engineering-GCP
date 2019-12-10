@@ -69,6 +69,16 @@
 [What Is Pub/Sub?](https://cloud.google.com/pubsub/docs/overview)\
 [What is Serverless Architecture? What are its Pros and Cons?)(https://hackernoon.com/what-is-serverless-architecture-what-are-its-pros-and-cons-cc4b804022e9)
 
+### [Auto ML and Vision API]
+[AutoML Vision documentation](https://cloud.google.com/vision/automl/docs/)\
+[Vision API documentation](https://cloud.google.com/vision/#resources)\
+[ML on GCP Coursera course (learn TensorFlow)(https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+
+### [Building Custom Model[
+[Cloud AutoML](https://cloud.google.com/automl/)\
+[BigQuery ML](https://cloud.google.com/bigquery/docs/bigqueryml-intro)\
+[Building custom ML models with TensorFlow](https://www.tensorflow.org/tutorials/)
+
 ### Learn More
 [What is JSON?](https://www.w3schools.com/whatis/whatis_json.asp)
 
