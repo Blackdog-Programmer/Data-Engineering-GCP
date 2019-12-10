@@ -59,6 +59,11 @@
 [ROC Cruve - Goal is 1.0](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)\
 [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall)
 
+[Cloud Pub/Sub Documentation](https://cloud.google.com/pubsub/) + [release blog](https://cloud.google.com/pubsub/docs/release-notes)\
+[Cloud Dataflow Documentation] + [release blog](https://cloud.google.com/blog/products/data-analytics/) + [templates](https://cloud.google.com/dataflow/docs/guides/templates/provided-templates)\
+[Data Studio Documentation](https://developers.google.com/datastudio/)\
+[Blog: Using Google Sheets with BigQuery](https://cloud.google.com/blog/products/g-suite/connecting-bigquery-and-google-sheets-to-help-with-hefty-data-analysis)
+
 ## 2. Leveraging Unstructured Data Cloud Dataproc Google Cloud Platform
 
 
