@@ -64,6 +64,11 @@
 [Data Studio Documentation](https://developers.google.com/datastudio/)\
 [Blog: Using Google Sheets with BigQuery](https://cloud.google.com/blog/products/g-suite/connecting-bigquery-and-google-sheets-to-help-with-hefty-data-analysis)
 
+### [Modern data pipeline challenges]
+[What Is a Data Pipeline?](https://dzone.com/articles/what-is-a-data-pipeline)\
+[What Is Pub/Sub?](https://cloud.google.com/pubsub/docs/overview)\
+[What is Serverless Architecture? What are its Pros and Cons?)(https://hackernoon.com/what-is-serverless-architecture-what-are-its-pros-and-cons-cc4b804022e9)
+
 ## 2. Leveraging Unstructured Data Cloud Dataproc Google Cloud Platform
 
 
