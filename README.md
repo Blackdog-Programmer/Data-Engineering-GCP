@@ -8,6 +8,10 @@
 [Best Data Security Software](https://www.g2.com/categories/data-security?__hstc=171774463.6ff797beced5796a84f4a5c7324c7299.1575889076257.1575889076257.1575906280839.2&__hssc=171774463.2.1575906280839&__hsfp=2841943870)
 
 ![4V Big Data Infographic](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/4-Vs-of-big-data.jpg)
+[GCP Compute Engine](https://cloud.google.com/compute/)\
+[GCP Storage](https://cloud.google.com/storage/)
+
+![Google Cloud Bucket Storage](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Cloud_Bucket_Storage.png)
 
 ## 0. Google Cloud Platfrom Reference
 [What is Google Cloud Dataproc?](https://cloud.google.com/dataproc/docs/concepts/overview)
@@ -47,14 +51,9 @@
 
 ![GCP_Data_Process](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Data_Process.png)
 
-
-
-<h2>[Learnning More Reference]</h2>
-
-[GCP Compute Engine](https://cloud.google.com/compute/)\
-[GCP Storage](https://cloud.google.com/storage/)
-
-![Google Cloud Bucket Storage](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Cloud_Bucket_Storage.png)
+[Migrating Hadoop to Google Cloud Platform](https://cloud.google.com/solutions/migration/hadoop/hadoop-gcp-migration-overview)\
+[Cloud SQL Documentation](https://cloud.google.com/sql/)\
+[Cloud Dataproc Documentation](https://cloud.google.com/)
 
 ## 2. Leveraging Unstructured Data Cloud Dataproc Google Cloud Platform
 
