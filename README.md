@@ -14,6 +14,12 @@
 ![Google Cloud Bucket Storage](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Cloud_Bucket_Storage.png)
 
 ## 0. Google Cloud Platfrom Reference
+
+![An_Explosion_of_Data](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Introduction/An_Explosion_of_Data.png)\
+![An_Explosion_of_Data_1percent_analysis](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Introduction/An_Explosion_of_Data_1percent_analysis.png)\
+![BigData_Challenge](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Introduction/BigData_Challenge.png)\
+![Major_Roles_in_data_driven](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Introduction/Major_Roles_in_data_driven.png)
+
 [What is Google Cloud Dataproc?](https://cloud.google.com/dataproc/docs/concepts/overview)
 
 ##  1. Google Cloud Platform Big Data and Machine Learning Fundamentals
