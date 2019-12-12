@@ -18,6 +18,7 @@
 
 ##  1. Google Cloud Platform Big Data and Machine Learning Fundamentals
 [Google Cloud](https://cloud.google.com/)\
+[Types of Cloud Computing Services: IaaS, PaaS, and SaaS](https://hub.packtpub.com/cloud-computing-services-iaas-paas-saas/)\
 [Google Cloud Platform Blog](https://cloud.google.com/blog/products)\
 [Google Cloud Gihub](https://github.com/GoogleCloudPlatform)
 [GCP Training Data](https://github.com/GoogleCloudPlatform/training-data-analyst)
