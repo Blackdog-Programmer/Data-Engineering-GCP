@@ -14,7 +14,8 @@
 ![Google Cloud Bucket Storage](https://github.com/Blackdog-Programmer/Data-Engineering-GCP/blob/master/Reference/GCP_Cloud_Bucket_Storage.png)
 
 ## 0. Google Cloud Platfrom Reference
-[What is Google Cloud Dataproc?](https://cloud.google.com/dataproc/docs/concepts/overview)
+[What is Google Cloud Dataproc?](https://cloud.google.com/dataproc/docs/concepts/overview)\
+[GCP Services](https://cloud.google.com/docs/overview/cloud-platform-services)
 
 ##  1. Google Cloud Platform Big Data and Machine Learning Fundamentals
 [Google Cloud](https://cloud.google.com/)\
