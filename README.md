@@ -72,7 +72,7 @@
 ### [Auto ML and Vision API]
 [AutoML Vision documentation](https://cloud.google.com/vision/automl/docs/)\
 [Vision API documentation](https://cloud.google.com/vision/#resources)\
-[ML on GCP Coursera course (learn TensorFlow)(https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+[ML on GCP Coursera course (learn TensorFlow](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
 
 ### [Building Custom Model[
 [Cloud AutoML](https://cloud.google.com/automl/)\
